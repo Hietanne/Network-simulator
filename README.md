@@ -73,3 +73,5 @@ Jos saat virheen, joka liittyy Tkinteriin (`ModuleNotFoundError: No module named
 
 ```bash
 pip install networkx matplotlib
+
+![alt text](image.png)
